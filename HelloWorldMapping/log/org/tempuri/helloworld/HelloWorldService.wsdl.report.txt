@@ -1,0 +1,23 @@
+
+
+Importing file: C:\Users\BDELLEM93\IBM\IIBT10\HelloWorldMapping\HelloWorld\HelloWorldService.wsdl
+
+Copying source WSDL HelloWorldService.wsdl to HelloWorldService.wsdl.
+The WSDL import will proceed with bindings HelloWorldSOAP_HTTP_Binding.
+Creating wsdl schema document for file:///C:/Users/BDELLEM93/IBM/IIBT10/HelloWorldMapping/HelloWorld/HelloWorldService.wsdl.
+Parsing wsdl binding {http://tempuri.org/HelloWorld}HelloWorldSOAP_HTTP_Binding.
+Parsing wsdl binding input Operation1.
+Parsing wsdl binding output Operation1.
+Parsing wsdl binding fault Operation1_Fault.
+Processing doc style for operation Operation1.
+Populating WSDL schema HelloWorldService.xsd.
+Creating file HelloWorldService.xsd in the workspace.
+Creating file HelloWorldService_InlineSchema1.xsd in the workspace.
+
+Elapsed time processing this message definition file: 0.425 seconds
+Number of warnings for this message definition file: 0
+
+
+Number of files processed: 1
+
+
